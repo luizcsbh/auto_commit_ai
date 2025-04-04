@@ -1,5 +1,7 @@
 # Auto Commit Monitor
 
+![Commit Ai](https://github.com/luizcsbh/auto_commit_ai/raw/main/assets/imagem.png)
+
 Este é um script Python que monitora repositórios Git, gera mensagens de commit automaticamente usando um modelo de IA da Hugging Face e facilita o commit e push das mudanças para o repositório remoto.
 
 ## 📌 Funcionalidades
